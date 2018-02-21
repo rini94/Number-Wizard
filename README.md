@@ -2,11 +2,11 @@
 
 Unity course example project
 
-Number guessing console game with random number guessing and selection of maximum and minimum limits.
+Number guessing game.
 
 Steps:
-1. Select a maximum limit.
-2. Select a minimum limit.
+1. Enter a maximum limit upto 9999.
+2. Enter a minimum limit above 0.
 3. Think of a number.
-4. Number will be guessed based on random number generation. Press up if your number is higher and down if it's lower.
-5. Hit enter if your number is guessed correctly.
+4. Number will be guessed based on random number generation. Select higher or lower till the number you thought of is displayed.
+5. Click on 'equals' if your number is guessed correctly.
